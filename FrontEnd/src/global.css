@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+html, body{
+    background: #F9F9F9;
+    font-family: sans-serif;    
+    width: 90%;
+    max-width: 700px;
+    margin: auto;
+}
